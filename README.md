@@ -12,4 +12,4 @@ For each function we report:
 - The convergence curve (fitness as a function of time)
 
 We want to solve two TSP problems.
-One with 38 cities (Djibouti) and the other with 194 cities (Qatar)
+One with 38 cities (Djibouti) and the other with 194 cities (Qatar).
