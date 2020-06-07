@@ -15,10 +15,9 @@ We want to solve two TSP problems.
 One with 38 cities (Djibouti) and the other with 194 cities (Qatar).
 
 We want to minimize the following functions:
-
--Shifted Sphere Function
--Schwefel's Problem
--Shifted Rosenbrock Function
--Shifted Rastrigin's Function
--Shifted Griewank Function
--Shifted Ackley Function
+- Shifted Sphere Function
+- Schwefel's Problem
+- Shifted Rosenbrock Function
+- Shifted Rastrigin's Function
+- Shifted Griewank Function
+- Shifted Ackley Function
