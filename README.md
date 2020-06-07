@@ -13,3 +13,12 @@ For each function we report:
 
 We want to solve two TSP problems.
 One with 38 cities (Djibouti) and the other with 194 cities (Qatar).
+
+We want to minimize the following functions:
+
+1)Shifted Sphere Function
+2)Schwefel's Problem
+3)Shifted Rosenbrock Function
+4)Shifted Rastrigin's Function
+5)Shifted Griewank Function
+6)Shifted Ackley Function
