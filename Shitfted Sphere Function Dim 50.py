@@ -77,10 +77,3 @@ print("Number of iterations: ",m[1])
 print("Fitness value: ",shifted_sphere(m[0]))
 #Convergence curve:
 m=grad_desc(shifted_sphere,100,0.01,D)
-
-
-
-
-
-
-    
