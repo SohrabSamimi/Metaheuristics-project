@@ -32,7 +32,7 @@ In both dimension 50 and 500,this algorithm does around 50 to 60 iterations depe
 About the convergence curve,it decreases rapidly,that is after 10 iterations,the curve almost reaches the minimum -450
 Convergence curve:
 
-![](Downloads/ConvergenceCurveGDA.bmp)
+![](Downloads\gda.png)
 
 
 
