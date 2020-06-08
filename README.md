@@ -27,12 +27,13 @@ For this project we have to minimize 6 functions,and solve two TSP problems.
 We shall begin the report with the 6 functions:
 
 1st function: Shifted Sphere Function
-As this function is convex and differentiable everywhere,we implement an algorithm which computes the gradient in any dimension,then we implement the gradient descent algorithm.
-In both dimension 50 and 500,this algorithm does around 50 to 60 iterations depending on the initial vector that we choose(which we here initialize randomly) and the learning rate(0.1 in our case),and the fitness value is very close to -450 as expected (in both dimensions).
+
+-As this function is convex and differentiable everywhere,we implement an algorithm which computes the gradient in any dimension,then we implement the gradient descent algorithm.
+-In both dimension 50 and 500,this algorithm does around 50 to 60 iterations depending on the initial vector that we choose(which we here initialize randomly) and the learning rate(0.1 in our case),and the fitness value is very close to -450 as expected (in both dimensions).
 About the convergence curve,it decreases rapidly,that is after 10 iterations,the curve almost reaches the minimum -450
 Convergence curve:
 
-![](Downloads\gda.png)
+![](Sohrab\Downloads\gda.png)
 
 
 
