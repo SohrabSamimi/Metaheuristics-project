@@ -76,5 +76,7 @@ TSP Problem Djibouti(38 cities):
 148 115 156 135 159 4 28 22 151 106 57 127 167 134].
  - The total tour length associated is around 82307 km.
  - The computational time is around 5 seconds.
-
+ - Convergence Curve:
+ 
+ ![tspqatar](https://user-images.githubusercontent.com/58103877/84087607-caea1000-a9ea-11ea-87b6-31337cf62aee.png)
 
