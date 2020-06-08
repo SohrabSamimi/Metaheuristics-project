@@ -33,7 +33,7 @@ We shall begin the report with the 6 functions:
 About the convergence curve,it decreases rapidly,that is after 10 iterations,the curve almost reaches the minimum -450
 Convergence curve:
 
-![](Sohrab\Downloads\gda.png)
+![](Sohrab/Downloads/gda.png)
 
 
 
