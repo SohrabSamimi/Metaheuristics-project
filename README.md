@@ -26,3 +26,8 @@ We want to minimize the following functions:
 For this project we have to minimize 6 functions,and solve two TSP problems.
 We shall begin the report with the 6 functions.
 
+
+
+
+![gda](https://user-images.githubusercontent.com/58103877/84086815-071c7100-a9e9-11ea-8d8f-1217b9a956c4.png)
+
