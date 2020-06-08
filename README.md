@@ -57,7 +57,7 @@ TSP Problem Djibouti(38 cities):
  - The optimal tour length associated to this best route is around 20692 kilometers.
  - Convergence curve:
  
- ![TSPDjibouti](https://user-images.githubusercontent.com/58103877/84087397-4f885e80-a9ea-11ea-9b95-59531da41f22.png)
+ ![djib2](https://user-images.githubusercontent.com/58103877/84087750-16042300-a9eb-11ea-8f0b-b9ee11477963.png)
  
  
  TSP Problem Qatar(194 cities):
